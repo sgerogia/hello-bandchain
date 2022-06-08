@@ -1,0 +1,62 @@
+[
+  {
+    "greatCircleDistance": {
+      "meter": 5504052.65,
+      "km": 5504.053,
+      "mile": 3420.06,
+      "nm": 2971.951,
+      "feet": 18057915.53
+    },
+    "departure": {
+      "airport": {
+        "icao": "OMDB",
+        "iata": "DXB",
+        "name": "Dubai City, Dubai",
+        "shortName": "Dubai",
+        "municipalityName": "Dubai City",
+        "location": {
+          "lat": 25.252798,
+          "lon": 55.3644
+        },
+        "countryCode": "AE"
+      },
+      "scheduledTimeLocal": "2022-06-15 09:40+04:00",
+      "scheduledTimeUtc": "2022-06-15 05:40Z",
+      "terminal": "3",
+      "quality": [
+        "Basic"
+      ]
+    },
+    "arrival": {
+      "airport": {
+        "icao": "EGLL",
+        "iata": "LHR",
+        "name": "London, London Heathrow",
+        "shortName": "Heathrow",
+        "municipalityName": "London",
+        "location": {
+          "lat": 51.4706,
+          "lon": -0.461941
+        },
+        "countryCode": "GB"
+      },
+      "scheduledTimeLocal": "2022-06-15 14:25+01:00",
+      "scheduledTimeUtc": "2022-06-15 13:25Z",
+      "terminal": "3",
+      "quality": [
+        "Basic"
+      ]
+    },
+    "lastUpdatedUtc": "2022-01-29 09:07Z",
+    "number": "EK 29",
+    "status": "Unknown",
+    "codeshareStatus": "IsOperator",
+    "isCargo": false,
+    "aircraft": {
+      "model": "Airbus A380-800"
+    },
+    "airline": {
+      "name": "Emirates"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "greatCircleDistance": {
+      "meter": 5504052.65,
+      "km": 5504.053,
+      "mile": 3420.06,
+      "nm": 2971.951,
+      "feet": 18057915.53
+    },
+    "departure": {
+      "airport": {
+        "icao": "OMDB",
+        "iata": "DXB",
+        "name": "Dubai City, Dubai",
+        "shortName": "Dubai",
+        "municipalityName": "Dubai City",
+        "location": {
+          "lat": 25.252798,
+          "lon": 55.3644
+        },
+        "countryCode": "AE"
+      },
+      "scheduledTimeLocal": "2022-06-01 09:40+04:00",
+      "scheduledTimeUtc": "2022-06-01 05:40Z",
+      "terminal": "3",
+      "quality": [
+        "Basic"
+      ]
+    },
+    "arrival": {
+      "airport": {
+        "icao": "EGLL",
+        "iata": "LHR",
+        "name": "London, London Heathrow",
+        "shortName": "Heathrow",
+        "municipalityName": "London",
+        "location": {
+          "lat": 51.4706,
+          "lon": -0.461941
+        },
+        "countryCode": "GB"
+      },
+      "scheduledTimeLocal": "2022-06-01 14:25+01:00",
+      "actualTimeLocal": "2022-06-01 14:03+01:00",
+      "runwayTimeLocal": "2022-06-01 14:03+01:00",
+      "scheduledTimeUtc": "2022-06-01 13:25Z",
+      "actualTimeUtc": "2022-06-01 13:03Z",
+      "runwayTimeUtc": "2022-06-01 13:03Z",
+      "terminal": "3",
+      "baggageBelt": "06",
+      "quality": [
+        "Basic",
+        "Live"
+      ]
+    },
+    "lastUpdatedUtc": "2022-06-01 15:16Z",
+    "number": "EK 29",
+    "callSign": "UAE62T",
+    "status": "Arrived",
+    "codeshareStatus": "IsOperator",
+    "isCargo": false,
+    "aircraft": {
+      "reg": "A6-EEU",
+      "modeS": "896194",
+      "model": "Airbus A380-800"
+    },
+    "airline": {
+      "name": "Emirates"
+    }
+  }
+]
