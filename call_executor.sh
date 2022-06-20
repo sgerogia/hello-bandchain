@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Replace with your Cloud function URL (Google or Amazon)
-BASE_URL="https://xyz.cloudfunctions.net/my_function_name/execute"
+# Replace with your Cloud function URL
+BASE_URL="https://XXX.cloudfunctions.net/XXX/execute"
 
 BINARY_BASE64="/tmp/program.base64"
 PAYLOAD_BASE64="/tmp/payload.base64"

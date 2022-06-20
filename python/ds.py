@@ -36,7 +36,7 @@ def main(flight, date):
 
 if __name__ == "__main__":
     try:
-        print(main(sys.argv[1], sys.argv[2]))
+        print(main(sys.argv[1], sys.argv[2]), end="")
     except Exception as e:
         print(str(e), file=sys.stderr)
         sys.exit(1)

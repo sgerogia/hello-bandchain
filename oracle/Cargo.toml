@@ -1,0 +1,13 @@
+[package]
+name = "flight-arrivals"
+
+version = "0.0.1"
+authors = ["Stelios Gerogiannakis <sgerogia.github.io>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+owasm-kit = { version = "0.1.13" }
+obi = { version = "0.0.2" }
